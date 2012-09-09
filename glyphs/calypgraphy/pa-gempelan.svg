@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="pa-gempelan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="1029.5693"
+     inkscape:cy="588.10573"
+     inkscape:window-x="0"
+     inkscape:window-y="66"
+     inkscape:current-layer="svg5496">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective2638" />
+  </defs>
+  <g
+     id="layer1" />
+  <path
+     style="fill:#000000"
+     d="M 1157.5178,734.75585 C 1100.1055,705.86498 1029.8349,619.01532 1029.8349,576.94842 C 1029.8349,544.14811 1031.4462,611.99315 1111.7261,657.34274 C 1203.3159,709.08108 1387.8621,704.12499 1444.0879,653.67887 C 1487.1284,615.06276 1491.5211,504.53571 1468.7993,317.18758 C 1454.5805,199.94879 1392.5235,131.83373 1484.3586,189.44165 C 1540.1803,224.45851 1598.1594,355.34694 1595.4162,566.45431 L 1592.7674,770.30962 L 1573.8618,586.85816 C 1560.5306,390.37529 1515.0743,224.29602 1481.0722,224.29602 C 1464.6791,224.29602 1500.8232,371.4405 1506.9799,460.27875 C 1521.0476,663.27227 1473.2543,732.04132 1304.9985,750.90569 C 1242.2442,757.94158 1192.8426,752.53178 1157.5178,734.75585 z"
+     id="path2547"
+     sodipodi:nodetypes="cscscscccscsc" />
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="wisah.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.16051324"
+     inkscape:cx="112.7871"
+     inkscape:cy="287.74244"
+     inkscape:window-x="2"
+     inkscape:window-y="49"
+     inkscape:current-layer="svg5496">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3644" />
+  </defs>
+  <g
+     id="layer1" />
+  <path
+     style="fill:#000000"
+     d="M 1190.3118,1062.9408 C 1143.3431,976.57767 1188.9288,906.93317 1261.9271,744.04877 C 1361.8276,521.13237 1306.2659,405.12229 1150.2135,372.08906 C 1063.5456,353.74295 1074.448,347.52675 1167.9327,347.52675 C 1217.0441,347.52675 1282.7274,302.94058 1302.6551,282.8384 C 1355.5002,229.53395 1295.0264,134.63884 1191.3213,148.95602 C 1139.744,156.07661 1080.2846,201.23256 1080.2846,237.40542 C 1080.2846,252.91173 1089.8544,287.62514 1080.3122,287.62514 C 1070.7699,287.62514 1062.9626,265.31015 1062.9626,238.0362 C 1062.9626,172.68954 1122.3207,128.27174 1209.6462,128.27174 C 1294.6886,128.27174 1340.5556,163.19661 1340.5556,227.95244 C 1340.5556,269.64297 1330.1545,285.53197 1281.751,317.78522 C 1228.6127,353.19429 1225.8438,358.24726 1253.0167,370.23701 C 1269.556,377.53429 1296.8885,404.05364 1313.7557,429.16872 C 1362.0655,501.09655 1352.0358,602.2107 1279.1572,777.94327 C 1223.8312,911.34767 1216.5895,943.45607 1223.1667,1026.1669 C 1227.322,1078.4164 1228.7532,1121.166 1226.3504,1121.166 C 1223.9457,1121.166 1207.7291,1094.9647 1190.3118,1062.9408 z"
+     id="path2532"
+     sodipodi:nodetypes="cccscsssssscccccsc" />
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9320"
+   height="12600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="da-murda-mahaprana.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="780.56095"
+     inkscape:cy="7995.6874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-guide="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4173"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 1016.2544,4940.0468 C 300.3658,4352.6564 306.93996,3654.3761 1041.8476,2221.7077 C 1420.0621,1484.3981 1843.8398,481.1626 1699.3624,362.61337 C 1390.7666,109.40812 700.32627,901.41725 321.50557,1580.7265 L -1.10625,2159.2259 L 140.60182,1512.3317 C 348.08312,565.15581 832.83409,33.703564 1489.2726,33.703564 C 2382.2371,33.703564 2424.7216,542.11894 1630.1095,1719.0767 C 569.83134,3289.5381 723.77582,4874.9233 2082.3838,4874.9233 C 2569.9588,4874.9233 2837.3972,3934.7003 3279.0806,3360.6091 C 3963.1234,2471.5056 4201.5172,2399.2594 4961.7761,3162.4269 C 5404.1187,4038.6587 5969.5471,5081.5771 6618.2893,4839.039 C 7036.7299,4682.6051 7225.9968,3737.3178 7343.7268,3093.1573 C 7486.1931,2313.6406 7344.6864,882.64684 7066.2611,287.30997 C 6871.2758,-129.61647 7768.858,-10.265589 8286.5506,449.57029 C 8908.784,1002.2556 9250.6588,2096.7013 9224.7317,3453.0292 C 9186.5398,5451.0676 8880.9837,5624.3967 8770.1544,3710.888 C 8695.7483,2426.2622 8755.8993,1721.105 8464.1117,1355.7074 C 8242.3405,1077.9905 7629.2913,472.20301 7560.1162,528.972 C 7490.9392,585.7266 7629.4246,1881.8812 7653.9715,2798.2029 C 7695.6959,4355.7358 7661.7086,4494.5289 7132.2091,4928.9803 C 6820.6903,5184.5906 6424.8669,5393.727 6252.5979,5393.727 C 5871.8192,5393.727 5374.2063,4926.2018 5010.1755,4226.419 C 4620.8962,3478.1137 3639.5981,3589.4033 3153.7267,4436.9591 C 2549.0187,5491.8028 1880.4799,5649.1667 1016.2544,4940.0468 z"
+       id="path21683"
+       sodipodi:nodetypes="ccccccscsccccccccccccsccc" />
+  </g>
+</svg>

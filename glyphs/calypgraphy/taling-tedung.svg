@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="taling-tedung.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.227"
+     inkscape:cx="312.28156"
+     inkscape:cy="527.75807"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg5496">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3525" />
+  </defs>
+  <g
+     id="layer1" />
+  <path
+     style="fill:#000000"
+     d="M 1324.181,600.33247 C 1324.181,537.4257 1355.2883,551.21905 1403.427,590.82967 C 1450.3705,629.45706 1506.6194,590.63831 1541.6223,545.20007 C 1602.8893,465.66907 1536.8018,277.1548 1428.3804,230.37622 C 1353.0752,197.88536 1170.2631,227.16735 1110.9057,256.05029 C 1046.6727,287.30604 1028.0805,291.99041 1091.4719,234.35199 C 1142.0391,188.37663 1168.723,178.77557 1263.2161,172.56095 C 1394.1905,163.94728 1470.3775,192.4009 1534.0558,273.70969 C 1620.5133,384.10667 1618.9512,526.52043 1530.3411,612.27953 C 1499.0339,642.57882 1467.9814,652.70493 1406.3764,652.70493 C 1327.5273,652.70493 1324.181,650.57296 1324.181,600.33247 z"
+     id="path2530"
+     sodipodi:nodetypes="cccccccccsc" />
+  <path
+     style="fill:#000000"
+     d="M -130.75983,1149.0905 C -181.0906,1041.6378 -147.04287,972.6267 -90.56097,708.93119 C -34.31246,446.32532 -52.13894,297.06681 -108.55595,229.59502 C -188.09468,134.47041 -285.80411,246.22896 -306.99255,381.30518 C -323.45411,486.24676 -344.60974,462.83625 -366.44505,315.51661 C -371.88872,278.7883 -382.26611,244.35951 -389.50589,239.00837 C -407.70654,225.55564 -406.05504,195.8638 -387.10629,195.8638 C -378.54668,195.8638 -362.52325,221.51966 -351.49886,252.87678 L -331.4543,347.84002 L -308.93355,245.42837 C -252.34211,166.09759 -246.58665,142.59757 -167.42472,142.59757 C -120.369,142.59757 -100.95647,153.15334 -71.79915,194.59482 C -2.222844,293.4841 -3.126344,379.12057 -77.40643,726.00425 C -121.84785,933.54314 -131.10035,1066.0168 -106.54848,1143.2469 C -96.23982,1175.6738 -97.98248,1192.8508 -113.10385,1207.8594 C -129.84495,1224.476 -117.08077,1209.8454 -130.75983,1149.0905 z"
+     id="path2508"
+     sodipodi:nodetypes="cscsssscccsssssc" />
+</svg>

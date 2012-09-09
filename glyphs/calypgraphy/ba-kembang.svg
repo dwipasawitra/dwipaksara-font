@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9320"
+   height="12600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ba-kembang.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="780.56095"
+     inkscape:cy="7086.2062"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-guide="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4173"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path19460"
+       style="fill:#000000"
+       d="M 173.20559,5298.2439 C -238.69733,4900.8073 156.66031,3707.0436 700.19008,3707.0436 C 810.67777,3707.0436 792.99887,3807.7195 660.41764,3933.5786 C 296.26142,4279.2521 369.24373,4839.7186 778.40248,4839.7186 C 974.54013,4839.7186 1889.1937,4839.9655 2535.9727,4320.8228 C 3128.9421,3812.9218 3660.9876,3265.5587 3802.4382,2473.9004 C 3802.4382,1822.952 4255.8436,855.62867 4761.2316,428.27032 C 5362.8489,-80.432824 6727.7586,-166.0064 7580.8171,251.51641 C 8641.806,770.81022 8972.1755,1588.8469 8972.5533,3697.6046 C 8972.9312,5882.4976 8642.5219,5783.1987 8542.9317,3568.4797 C 8480.8668,2188.0509 8639.5067,1883.5143 8175.0643,1442.6205 C 7758.2891,1046.9771 7230.641,494.0737 6459.9311,485.9373 C 5081.0415,471.38242 4601.963,1197.5644 4281.4372,1925.761 C 3887.4318,2820.9331 3915.1532,2894.5569 4698.8288,3034.1213 C 5552.5435,3186.1642 6040.4715,3827.8812 5953.8671,4684.7694 C 5895.4612,5262.4517 5836.4589,5311.6673 5202.1088,5311.6673 C 4637.7781,5311.6673 4458.5834,5209.5939 4207.7985,4745.3286 C 4039.5413,4433.8433 3879.358,4143.4444 3851.8354,4100.0063 C 3824.3129,4056.5871 3390.2567,4301.5848 2887.2948,4644.4825 C 1995.3189,5252.5597 499.3394,5612.9208 173.20559,5298.2439 z M 5592.1966,4688.6952 C 5592.1966,4223.449 5205.9866,3895.8228 4657.545,3895.8228 C 4157.5063,3895.8228 4089.7937,4102.4226 4406.0242,4663.3426 C 4676.1585,5142.483 5592.1966,5162.0591 5592.1966,4688.6952 z M 1614.9555,1956.7398 C 1237.2966,1185.1238 402.4615,-70.4869 234.29608,1664.3775 C 68.74328,2056.3396 47.942446,2029.5896 36.666853,1409.9409 C 21.374344,569.30729 184.54076,120.23943 505.28539,120.23943 C 953.22208,120.23943 1828.2549,1191.0326 1946.7369,1884.1731 C 2091.6477,2731.8104 2003.7308,2751.047 1614.9555,1956.7398 z"
+       sodipodi:nodetypes="cscscccccccccccscccccscccccscc" />
+  </g>
+</svg>

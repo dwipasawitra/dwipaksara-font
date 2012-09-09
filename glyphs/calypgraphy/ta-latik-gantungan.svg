@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9320"
+   height="12600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ta-latik-gantungan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="780.56095"
+     inkscape:cy="2995.6874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-guide="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4173"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path20903"
+       style="fill:#000000"
+       d="M -4374.5073,8650.25 C -5523.7672,8435.35 -6355.9485,7086.9871 -5893.8795,6188.4397 C -5813.998,6033.1004 -5799.5376,6115.2297 -5845.2288,6464.7458 C -5929.4684,7109.0142 -5616.8728,7667.793 -5026.1092,7928.991 C -3905.299,8712.16 -2480.9395,8211.973 -2350.7091,8025.477 C -2313.4219,7972.073 -2370.4141,7773.132 -2477.3682,7583.377 C -2732.7717,7130.2345 -2664.8156,6879.846 -2251.4972,6751.1978 C -1449.0232,6501.4061 -999.0294,7113.5788 -1538.7198,7720.844 C -1781.0866,7993.547 -1783.072,8012.834 -1569.9381,8024.295 C -1078.1367,8050.732 -705.2772,7986.894 -426.1852,7828.46 C 19.3381,7575.574 45.112,7740.484 -380.981,8117.62 C -784.2846,8474.563 -1055.4597,8524.199 -1600.4322,8340.82 C -1865.2637,8251.706 -2047.0669,8272.76 -2451.4569,8439.395 C -3110.1516,8710.838 -3702.9007,8775.825 -4374.5073,8650.25 z M -1725.8925,7727.851 C -1469.2152,7500.684 -1478.2311,7381.0541 -1762.1558,7246.5704 C -1926.1145,7168.9063 -2059.6167,7178.4886 -2215.0216,7279.064 C -2396.8373,7396.7262 -2410.0114,7463.67 -2290.3203,7661.604 C -2117.9575,7946.664 -1990.0622,7961.673 -1725.8925,7727.851 z"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+</svg>

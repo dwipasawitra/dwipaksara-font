@@ -1,0 +1,201 @@
+#include "stddef.gdh"
+// Bali Polos v1.0 Pre-Alpha
+// Graphite Description Language (GDL) Table
+//
+// Author: Putu Wiramaswara Widya <info@wirama.web.id>
+// Licensed under GNU General Public License v2.0
+// See COPYING for more information
+//
+
+//Glyph Definition
+table (glyph)
+// Standard consonant form (U+1B13 - U+1B33)
+	gKa = U+1B13;
+	gKha = U+1B14;
+	gGa = U+1B15;
+	gGha = U+1B16;
+	gNga = U+1B17;
+	gCa = U+1B18;
+	gCha = U+1B19;
+	gJa = U+1B1A;
+	gJha = U+1B1B;
+	gNya = U+1B1C;
+	gTta = U+1B1D;
+	gTtha = U+1B1E;
+	gDda = U+1B1F;
+	gDdha = U+1B20;
+	gNna = U+1B21;
+	gTa = U+1B22;
+	gTha = U+1B23;
+	gDa = U+1B24;
+	gDha = U+1B25;
+	gNa = U+1B26;
+	gPa = U+1B27;
+	gPha = U+1B28;
+	gBa = U+1B29;
+	gBha = U+1B2A;
+	gMa = U+1B2B;
+	gYa = U+1B2C;
+	gRa = U+1B2D;
+	gLa = U+1B2E;
+	gWa = U+1B2F;
+	gSha = U+1B30;
+	gSsa = U+1B31;
+	gSa = U+1B32;
+	gHa = U+1B33;
+//Vowel sign
+	gTedung = U+1B35;
+	gUlu = U+1B36;
+	gUluSari = U+1B37;
+	gSuku = U+1B38;
+	gSukuIlut = U+1B39;
+	gRaRepa = U+1B3A;
+	gRaRepaTedung = U+1B3B;
+	gLaLenga = U+1B3C;
+	gLaLengaTedung = U+1B3D;
+	gTaling = U+1B3E;
+	gTalingRepa = U+1B3E;
+	gTalingTedung = U+1B40;
+	gTalingRepaTedung = U+1B41;
+	gPepet = U+1B42;
+	gPepetTedung = U+1B43;
+	gAdegAdeg = U+1B44;
+	gBisah = U+1B04;
+	gSurang = U+1B03;
+	gCecek = U+1B02;
+//Conjunct form
+	gconjKa = postscript("uni1B13_conj");
+	gconjKha = postscript("uni1B14_conj");
+	gconjGa = postscript("uni1B15_conj");
+	gconjGha = postscript("uni1B16_conj");
+	gconjNga = postscript("uni1B17_conj");
+	gconjCa = postscript("uni1B18_conj");
+	gconjCha = postscript("uni1B19_conj");
+	gconjJa = postscript("uni1B1A_conj");
+	gconjJha = postscript("uni1B1B_conj");
+	gconjNya = postscript("uni1B1C_conj");
+	gconjTta = postscript("uni1B1D_conj");
+	gconjTtha = postscript("uni1B1E_conj");
+	gconjDda = postscript("uni1B1F_conj");
+	gconjDdha = postscript("uni1B20_conj");
+	gconjNna = postscript("uni1B21_conj");
+	gconjTa = postscript("uni1B22_conj");
+	gconjTha = postscript("uni1B23_conj");
+	gconjDa = postscript("uni1B24_conj");
+	gconjDha = postscript("uni1B25_conj");
+	gconjNa = postscript("uni1B26_conj");
+	gconjPa = postscript("uni1B27_conj");
+	gconjPha = postscript("uni1B28_conj");
+	gconjBa = postscript("uni1B29_conj");
+	gconjBha = postscript("uni1B2A_conj");
+	gconjMa = postscript("uni1B2B_conj");
+	gconjYa = postscript("uni1B2C_conj");
+	gconjRa = postscript("uni1B2D_conj");
+	gconjLa = postscript("uni1B2E_conj");
+	gconjWa = postscript("uni1B2F_conj");
+	gconjSha = postscript("uni1B30_conj");
+	gconjSsa = postscript("uni1B31_conj");
+	gconjSa = postscript("uni1B32_conj");
+	gconjHa = postscript("uni1B33_conj");
+	gconjSuku = postscript("uni1B38_conj");
+	gconjSukuIlut = postscript("uni1B39_conj");
+// Doubleconj form
+	gdobconjYa = postscript("uni1B2C_doubleconj");
+	gdobconjWa = postscript("uni1B2F_doubleconj");
+	gdobconjRa = postscript("uni1B2D_doubleconj");
+	gdobconjSuku = postscript("uni1B38_doubleconj");
+	gdobconjSukuIlut = postscript("uni1B39_doubleconj");
+//Other
+	gSpace = U+200B;
+	gZWJ = U+200D;
+
+//Classes
+//All Consonant
+	cConsAll = (gKa, gKha, gGa, gGha, gNga, gCa, gCha, gJa, gJha, gNya, gTta, gTtha, gDda, gDdha, gNna, gTa, gTha, gDa, gDha, gNa, gPa, gPha, gBa, gBha, gMa, gYa, gRa, gLa, gWa, gSha, gSsa, gSa, gHa);
+//All Consonant Conjunction form
+	cConsConj = (gconjKa, gconjKha, gconjGa, gconjGha, gconjNga, gconjCa, gconjCha, gconjJa, gconjJha, gconjNya, gconjTta, gconjTtha, gconjDda, gconjDdha, gconjNna, gconjTa, gconjTha, gconjDa, gconjDha, gconjNa, gconjPa, gconjPha, gconjBa, gconjBha, gconjMa, gconjYa, gconjRa, gconjLa, gconjWa, gconjSha, gconjSsa, gconjSa, gconjHa);
+//Ra-Wa-Ya consonant (that allowed to be double conjunction form)
+	cConsRaWaYa = (gRa, gWa, gYa);
+//Double conjunction form of Ra-Wa-Ya
+	cConsDoubleConj = (gdobconjRa, gdobconjWa, gdobconjYa);
+//Consonant which doesn't allowed to be double conjunction form
+	cConsNotRaWaYa = (gKa, gKha, gGa, gGha, gNga, gCa, gCha, gJa, gJha, gNya, gTta, gTtha, gDda, gDdha, gNna, gTa, gTha, gDa, gDha, gNa, gPa, gPha, gBa, gBha, gMa, gLa, gSha, gSsa, gSa, gHa);
+//Single conjunction form of consonant which doesn't allowed to be double conjunction form
+	cConsConjNotRaWaYa = (gconjKa, gconjKha, gconjGa, gconjGha, gconjNga, gconjCa, gconjCha, gconjJa, gconjJha, gconjNya, gconjTta, gconjTtha, gconjDda, gconjDdha, gconjNna, gconjTa, gconjTha, gconjDa, gconjDha, gconjNa, gconjPa, gconjPha, gconjBa, gconjBha, gconjMa, gconjLa, gconjSha, gconjSsa, gconjSa, gconjHa);
+//Consonant which used side conjunction form	
+	cConsPaPhaSaSsa = (gPa, gSa, gSsa);
+//Conjunction form of consnant which used side conjunction form 
+	cConsConjPaPhaSaSsa = (gconjPa, gconjSa, gconjSsa);
+//Consonant with the conjunction which rendered on bottom
+	cConsNotPaPhaSaSsa = (gKa, gKha, gGa, gGha, gNga, gCa, gCha, gJa, gJha, gNya, gTta, gTtha, gDda, gDdha, gNna, gTa, gTha, gDa, gDha, gNa, gBa, gBha, gMa, gYa, gRa, gLa, gWa, gSha, gHa);
+//Conjunction form of consonant which rendered on bottom
+	cConsConjNotPaPhaSaSsa = (gconjKa, gconjKha, gconjGa, gconjGha, gconjNga, gconjCa, gconjCha, gconjJa, gconjJha, gconjNya, gconjTta, gconjTtha, gconjDda, gconjDdha, gconjNna, gconjTa, gconjTha, gconjDa, gconjDha, gconjNa, gconjBa, gconjBha, gconjMa, gconjYa, gconjRa, gconjLa, gconjWa, gconjSha, gconjHa);
+//Consonant without Nga and Ha
+	cConsNotNgaHa = (gKa, gKha, gGa, gGha, gCa, gCha, gJa, gJha, gNya, gTta, gTtha, gDda, gDdha, gNna, gTa, gTha, gDa, gDha, gNa, gPa, gPha, gBa, gBha, gMa, gYa, gRa, gLa, gWa, gSha, gSsa, gSa);
+//All Consonant and Vowel
+	cConsAndVowelSpace = (gKa, gKha, gGa, gGha, gNga, gCa, gCha, gJa, gJha, gNya, gTta, gTtha, gDda, gDdha, gNna, gTa, gTha, gDa, gDha, gNa, gPa, gPha, gBa, gBha, gMa, gYa, gRa, gLa, gWa, gSha, gSsa, gSa, gHa, gUlu, gUluSari, gSuku, gSukuIlut, gTaling, gTalingRepa, gTedung, gTalingTedung, gTalingRepaTedung, gPepet);
+//TalingGroup
+	cTaling = (gTaling, gTalingRepa);
+//TalingTedung Group
+	cTalingTedung = (gTalingTedung, gTalingRepaTedung);
+//Suku Group
+	cSuku = (gSuku, gSukuIlut);
+	cSukuConj = (gconjSuku, gconjSukuIlut);
+	cSukuDobConj = (gdobconjSuku, gdobconjSukuIlut);
+endtable;
+
+table (substitution)
+	//Pass 1, Ng, h, r consonant contextual form
+	pass(1)
+		gNga gAdegAdeg gSpace > gCecek @3 _;
+		gHa gAdegAdeg gSpace > gBisah @3 _;
+		cConsNotNgaHa gAdegAdeg gSpace cConsAll > @1 @2 @4 _;		
+		cConsAndVowelSpace gRa gAdegAdeg cConsNotRaWaYa> @1 gSurang @4 _;
+	endpass;	
+	//Pass 2, Conjunction form
+	pass(2)
+		cConsAll gAdegAdeg cConsAll > @1 cConsConj$3 _ ;
+		cConsAll gAdegAdeg cConsNotPaPhaSaSsa gAdegAdeg cConsRaWaYa > @1 cConsConjNotPaPhaSaSsa$3 cConsDoubleConj$5 _ _ ;
+		cConsAll gAdegAdeg cConsNotPaPhaSaSsa gAdegAdeg cConsNotRaWaYa > @1 @2 @3 cConsConjNotRaWaYa$5 _ ;
+		cConsAll gAdegAdeg cConsPaPhaSaSsa gAdegAdeg cConsAll > @1 cConsConjPaPhaSaSsa$3 cConsConj$5 _ _;
+		cConsAll gAdegAdeg cConsPaPhaSaSsa gAdegAdeg cConsAll gAdegAdeg cConsRaWaYa > @1 cConsConjPaPhaSaSsa$3 cConsConj$5 cConsDoubleConj$7 _ _ _ ;
+	endpass;
+	//Pass 3, Consonant + Taling Tedung	
+	pass(3)
+		cConsAll cTaling > gTaling @1;
+		cConsAll cTalingTedung _ > cTaling$2 @1 gTedung;
+		cConsConjNotPaPhaSaSsa cTaling > @2 @1;
+		cConsConjNotPaPhaSaSsa cTalingTedung _ > cTaling$2 @1 gTedung;
+		cConsConjPaPhaSaSsa cTaling > @2 @1;
+		cConsConjPaPhaSaSsa cTalingTedung _ > cTaling$2 @1 gTedung;
+		cConsDoubleConj cTaling > @2 @1;
+		cConsDoubleConj cTalingTedung _ > cTaling$2 @1 gTedung;
+	endpass;
+
+	//Pass 4, Consonant + Conjunction + Taling Tedung
+	pass(4)	
+		cConsAll cTaling cConsConj > @2 @1 @3;
+		cConsAll cTaling cConsConj gTedung > @2 @1 @3 @4;
+
+		cConsAll cConsConjPaPhaSaSsa cTaling cConsConj > @3 @1 @2 @4;
+		cConsAll cConsConjPaPhaSaSsa cTaling cConsConj gTedung > @3 @1 @2 @4 @5;
+
+		cConsAll cConsConj cTaling cConsDoubleConj  > @3 @1 @2 @4;
+		cConsAll cConsConj cTaling cConsDoubleConj gTedung > @3 @1 @2 @4 @5;
+
+		cConsAll cTaling cConsConjPaPhaSaSsa > @2 @1 @3;
+		cConsAll cTaling cConsConjPaPhaSaSsa gTedung > @2 @1 @3 @4; 
+
+		cConsAll cConsConjPaPhaSaSsa cConsConj cTaling cConsDoubleConj > @4 @1 @2 @3 @5;
+		cConsAll cConsConjPaPhaSaSsa cConsConj cTaling cConsDoubleConj gTedung > @4 @1 @2 @3 @5 @6;
+	endpass;
+	//Pass 5, Consonant + Conjunction + Suku
+	pass(5)		
+		cConsConj cSuku > @1 cSukuConj$2;
+		cConsDoubleConj cSuku > @1 cSukuDobConj$2;
+	endpass;
+endtable;
+
+table(lb)
+	cConsAll { break = BREAK_WORD } cConsAll;
+endtable;

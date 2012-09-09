@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="9320"
+   height="12600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="da-murda.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="780.56095"
+     inkscape:cy="6995.6874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-guide="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="727"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4173"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 981.29245,4983.2663 C 248.06373,4380.3372 254.79742,3663.5787 1007.5049,2193.0136 C 1394.8901,1436.1985 1921.6606,470.98115 1773.6924,349.29577 C 1457.6196,89.38757 657.70861,837.80183 269.71045,1535.0726 L -60.7167,2128.8871 L 84.426828,1464.8696 C 296.94106,492.64722 793.43589,-52.871 1465.7756,-52.871 C 2380.3789,-52.871 2423.8914,469.00044 1610.0213,1677.0908 C 524.06196,3289.0942 631.7313,4795.9206 2023.2519,4795.9206 C 2524.3125,4795.9206 2847.0807,3950.644 3308.1544,3350.0547 C 4024.8277,2416.5129 4526.1072,2429.9438 5080.1731,3397.545 C 5602.2889,4309.3572 6397.6495,5163.8898 6993.4648,4558.8465 C 7377.0396,4169.3283 7374.0448,3222.9913 7293.2393,1703.7464 C 7230.3029,520.58098 7275.9175,11.157279 7433.2147,140.49198 C 7764.244,412.70046 7890.7955,3916.5061 7592.4828,4550.1123 C 7456.7886,4838.3377 7084.5354,5172.0374 6765.2655,5291.6579 C 6075.9434,5549.9242 5481.4529,5208.201 5017.3899,4286.9397 C 4442.8948,2693.8724 3849.5496,3135.7753 3170.555,4466.8618 C 2551.1986,5549.6194 1866.4642,5711.1352 981.29245,4983.2663 z"
+       id="path16498"
+       sodipodi:nodetypes="ccccccscscccccccccc" />
+  </g>
+</svg>

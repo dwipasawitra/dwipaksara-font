@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="ca-gantungan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="473.26436"
+     inkscape:cy="26.323137"
+     inkscape:window-x="603"
+     inkscape:window-y="70"
+     inkscape:current-layer="svg5496">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective2617" />
+  </defs>
+  <g
+     id="layer1" />
+  <path
+     id="path2481"
+     style="fill:#000000"
+     d="M 11.45173,1328.8572 C 11.45173,1293.9589 66.685717,1311.4708 115.62263,1302.3685 C 246.11189,1278.098 269.65705,1148.7411 293.26347,935.38361 C 304.98892,829.40863 311.78923,811.14163 324.56936,851.29108 C 348.48202,926.41302 312.05009,1135.3101 258.78629,1228.4872 C 187.26112,1353.6092 11.45173,1424.9536 11.45173,1328.8572 z M 485.15527,1346.1366 C 400.32467,1295.8189 350.30753,1086.2271 380.64172,908.18217 L 399.07297,800 L 411.2377,973.11926 C 426.51345,1190.5163 457.44195,1326.4644 600.8243,1335.3875 C 727.0298,1343.2418 789.87328,1225.5233 789.87328,1121.4549 C 789.87328,1024.1843 789.24428,947.42978 675.36099,904.25176 C 592.20734,872.72466 542.50381,887.31375 585.41553,867.86527 C 649.62217,838.7659 780.4526,841.99296 854.70045,874.50757 C 955.90947,918.82881 990.5141,1006.1584 986.76276,1207.784 L 983.48673,1383.8635 L 967.85537,1218.5733 C 951.4598,1045.2033 927.20139,937.66841 826.97249,915.47237 C 776.1211,904.21098 735.06841,898.00276 775.20604,963.75143 C 840.56099,1070.8085 851.6099,1249.7255 769.3434,1319.3922 C 694.9412,1382.3991 566.64598,1394.4728 485.15527,1346.1366 z"
+     sodipodi:nodetypes="cscscccccccssssccccssc" />
+</svg>

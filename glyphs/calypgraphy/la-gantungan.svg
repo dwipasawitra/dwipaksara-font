@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="la-gantungan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="641"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="500"
+     inkscape:cy="11.429617"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:current-layer="svg5496">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective2696" />
+  </defs>
+  <g
+     id="layer1" />
+  <path
+     style="fill:#000000"
+     d="M 184.84422,1336.041 C 174.19994,1306.5123 171.48122,1211.0262 178.53041,1114.3016 C 189.33633,966.0326 186.79615,878.05555 158.56225,866.62866 C 112.60962,848.0305 102.17587,931.54046 104.24655,1029.242 C 105.61886,1093.9796 102.00347,1105.198 89.579854,1074.7522 C 31.602986,932.67122 113.45475,749.29162 195.99323,836.3445 C 222.30833,864.0989 224.93051,899.73211 213.58132,1075.348 C 203.65251,1228.9848 206.22891,1285.6363 223.66224,1296.9984 C 263.37501,1322.8847 280.50893,1263.528 280.81522,1099.0027 C 281.24851,866.16266 330.25797,790.48854 463.25462,817.30289 C 528.34733,830.42682 568.43937,923.60488 568.43937,1061.7635 C 568.43937,1196.8421 602.06623,1335.108 711.03417,1338.1203 C 834.94408,1348.4303 851.97625,1279.0814 865.85451,1210.8576 C 878.0371,1150.9695 885.27047,1121.8945 894.08104,1002.9147 C 900.8285,911.79555 901.68,800 915.87069,800 C 931.51873,800 933.85127,912.13135 924.14639,1038.2815 C 902.07632,1325.1596 849.96271,1403.2385 695.17259,1381.3403 C 587.96965,1366.1759 557.15205,1318.3188 540.74969,1141.5344 C 526.04389,983.03612 491.30987,858.52783 421.81276,858.52783 C 340.76513,858.52783 310.22487,993.1106 305.69538,1171.6186 C 303.41513,1261.4914 297.22066,1346.9203 291.93014,1361.4624 C 274.9146,1408.2285 204.87291,1391.6014 184.84422,1336.041 z"
+     id="path2559"
+     sodipodi:nodetypes="ccscssscccscsssccssccc" />
+</svg>
