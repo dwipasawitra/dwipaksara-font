@@ -26,11 +26,10 @@ GNU General Public License (GNU GPL) version 3. For more information, see http:/
 RTFM first!
 
 ## Directory Structure
-/src			-- Font and GDL source
-/glyph/calypgraphy	-- put your glyph drawing here (in SVG)
-/glyph/sans-serif
-/doc			-- Some documentation you need
-/ttf			-- Ready2use TTF, for testing purposes
+* /src			-- Font and GDL source
+* /glyph	  -- put your glyph drawing here (in SVG)
+* /doc			-- Some documentation you need
+* /ttf			-- Ready2use TTF, for testing purposes
 
 ## Contact Person
 Putu Wiramaswara Widya <initrunlevel0@gmail.com>
